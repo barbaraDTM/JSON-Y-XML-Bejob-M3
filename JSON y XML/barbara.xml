@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<supermercados>
+
+    <Mercadona>
+        <direccion>Calle San Pablo 3</direccion>
+        <codigoPostal>41009</codigoPostal>
+        <coordenadas>
+            <norte>1°44'12.6</norte>
+            <sur></sur>
+            <este>29°30'31.47</este>
+            <oeste></oeste>
+        </coordenadas>
+        <secciones>
+            <dulces>
+            <nombre>galletas maria</nombre> 
+            <origen>bilbao</origen>
+            <precio>1.99</precio>
+            <unidades>10</unidades>
+            <unidadMedida>gr</unidadMedida>
+            <perecedero>true</perecedero>
+            <tieneOferta>true</tieneOferta>
+            <previamenteComprado>false</previamenteComprado>
+            <consumoHabitual>true</consumoHabitual>
+            <certificadoecologico>false</certificadoecologico>
+            <vegano>false</vegano>
+            <glutenfree>si</glutenfree>
+            <formatoEmpaque>plastico</formatoEmpaque>
+            <aptoBebes>false</aptoBebes>
+            </dulces>
+
+            <dulces>
+                <nombre>magdalenas de avena</nombre> 
+                <origen>EEUU</origen>
+                <precio>3.99</precio>
+                <unidades>10</unidades>
+                <unidadMedida>gr</unidadMedida>
+                <perecedero>true</perecedero>
+                <tieneOferta>false</tieneOferta>
+                <previamenteComprado>false</previamenteComprado>
+                <consumoHabitual>false</consumoHabitual>
+                <certificadoecologico>true</certificadoecologico>
+                <vegano>true</vegano>
+                <glutenfree>no</glutenfree>
+                <formatoEmpaque>carton</formatoEmpaque>
+                <aptoBebes>false</aptoBebes>
+            </dulces>
+
+            <fruteria>
+              <nombre>fresas</nombre> 
+                <origen>huelva</origen>
+                <precio>2.50</precio>
+                <unidades>0.5</unidades>
+                <unidadMedida>kg</unidadMedida>
+                <perecedero>true</perecedero>
+                <tieneOferta>false</tieneOferta>
+                <previamenteComprado>true</previamenteComprado>
+                <consumoHabitual>true</consumoHabitual>
+                <certificadoecologico>true</certificadoecologico>
+                <vegano>true</vegano>
+                <glutenfree>si</glutenfree>
+                <formatoEmpaque>plastico reciclado</formatoEmpaque>
+                <aptoBebes>true</aptoBebes>
+            </fruteria>
+            
+            <fruteria>
+                <nombre>zumo de naranja</nombre> 
+                  <origen>valencia</origen>
+                  <precio>3.00</precio>
+                  <unidades>2</unidades>
+                  <unidadMedida>litros</unidadMedida>
+                  <perecedero>true</perecedero>
+                  <tieneOferta>false</tieneOferta>
+                  <previamenteComprado>false</previamenteComprado>
+                  <consumoHabitual>true</consumoHabitual>
+                  <certificadoecologico>true</certificadoecologico>
+                  <vegano>true</vegano>
+                  <glutenfree>si</glutenfree>
+                  <formatoEmpaque>botella de vidrio</formatoEmpaque>
+                  <aptoBebes>true</aptoBebes>
+              </fruteria>
+
+        </secciones>
+    </Mercadona>
+
+    <Carrefour>
+        <direccion>Calle San Pablo 4</direccion>
+        <codigoPostal>41009</codigoPostal>
+        <coordenadas>
+            <norte>7°54'14.22</norte>
+            <sur></sur>
+            <este>15°26'12.31</este>
+            <oeste></oeste>
+        </coordenadas>
+        <secciones>
+            <dulces>
+            <nombre>kit kat</nombre> 
+            <origen>japon</origen>
+            <precio>1.59</precio>
+            <unidades>4</unidades>
+            <unidadMedida>gr</unidadMedida>
+            <perecedero>true</perecedero>
+            <tieneOferta>true</tieneOferta>
+            <previamenteComprado>true</previamenteComprado>
+            <consumoHabitual>true</consumoHabitual>
+            <certificadoecologico>false</certificadoecologico>
+            <vegano>false</vegano>
+            <glutenfree>si</glutenfree>
+            <formatoEmpaque>plastico</formatoEmpaque>
+            <aptoBebes>true</aptoBebes>
+            </dulces>
+
+            <dulces>
+                <nombre>caramelos de fruta</nombre> 
+                  <origen>francia</origen>
+                  <precio>0.75</precio>
+                  <unidades>3</unidades>
+                  <unidadMedida>gr</unidadMedida>
+                  <perecedero>true</perecedero>
+                  <tieneOferta>false</tieneOferta>
+                  <previamenteComprado>true</previamenteComprado>
+                  <consumoHabitual>true</consumoHabitual>
+                  <certificadoecologico>true</certificadoecologico>
+                  <vegano>true</vegano>
+                  <glutenfree>si</glutenfree>
+                  <formatoEmpaque>papel reciclado</formatoEmpaque>
+                  <aptoBebes>false</aptoBebes>
+            </dulces>
+
+            <fruteria>
+                <nombre>patatas</nombre> 
+                  <origen>chipiona</origen>
+                  <precio>5.99</precio>
+                  <unidades>10</unidades>
+                  <unidadMedida>kg</unidadMedida>
+                  <perecedero>true</perecedero>
+                  <tieneOferta>false</tieneOferta>
+                  <previamenteComprado>false</previamenteComprado>
+                  <consumoHabitual>true</consumoHabitual>
+                  <certificadoecologico>false</certificadoecologico>
+                  <vegano>true</vegano>
+                  <glutenfree>si</glutenfree>
+                  <formatoEmpaque>saco de tela</formatoEmpaque>
+                  <aptoBebes>true</aptoBebes>
+              </fruteria>
+
+              <fruteria>
+                <nombre>manzana</nombre> 
+                  <origen>carmona</origen>
+                  <precio>2.99</precio>
+                  <unidades>4</unidades>
+                  <unidadMedida>gr</unidadMedida>
+                  <perecedero>true</perecedero>
+                  <tieneOferta>false</tieneOferta>
+                  <previamenteComprado>false</previamenteComprado>
+                  <consumoHabitual>false</consumoHabitual>
+                  <certificadoecologico>false</certificadoecologico>
+                  <vegano>true</vegano>
+                  <glutenfree>si</glutenfree>
+                  <formatoEmpaque>plastico</formatoEmpaque>
+                  <aptoBebes>true</aptoBebes>
+              </fruteria>
+
+        </secciones>
+        
+    </Carrefour>
+
+</supermercados>
+              

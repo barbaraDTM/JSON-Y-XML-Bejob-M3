@@ -1,0 +1,177 @@
+{
+    "supermercados":[
+
+{
+"Mercadona":[
+    {
+
+    "direccion": "Calle San Pablo 3",
+    "codigoPostal": 41009,
+    "coordenadas": "29° 30' 31.47\"N 1°44'12.68\"O\"",
+    "secciones": [
+       
+        {
+        "Dulces":[
+            {
+            "nombre del producto": "galletas maria",
+            "origen": "bilbao",
+            "precio": 1.99,
+            "unidades": 10,
+            "unidadMedida": "gr",
+            "Es perecedero": true,
+            "Tiene Oferta": true,
+            "Previamente Comprado": false,
+            "Consumo Habitual": true,
+            "certificado ecologico": false,
+            "Vegano": false,
+            "Gluten Free": "No",
+            "formato de empaque": "Plastico",
+            "Apto para bebes": false
+        },
+        {
+            "nombre del producto": "magdalenas de avena",
+            "origen": "EEUU",
+            "precio": 3.99,
+            "unidades": 10,
+            "unidadMedida": "gr",
+            "Es perecedero": true,
+            "Tiene Oferta": false,
+            "Previamente Comprado": false,
+            "Consumo Habitual": false,
+            "certificado ecologico": true,
+            "Vegano": true,
+            "Gluten Free": "si",
+            "formato de empaque": "carton",
+            "Apto para bebes": false
+        }
+        ]
+        },
+        
+        {
+        "Fruteria":[
+            {
+            "nombre del producto": "fresas",
+            "origen": "huelva",
+            "precio": 2.50,
+            "unidades": 0.5,
+            "unidadMedida": "kg",
+            "Es perecedero": true,
+            "Tiene Oferta": false,
+            "Previamente Comprado": true,
+            "Consumo Habitual": true,
+            "certificado ecologico": true,
+            "Vegano": true,
+            "Gluten Free": "si",
+            "formato de empaque": "plastico reciclado",
+            "Apto para bebes": true
+        },
+        {
+            "nombre del producto": "zumo de naranja",
+            "origen": "valencia",
+            "precio": 3.00,
+            "unidades": 2,
+            "unidadMedida": "litros",
+            "Es perecedero": true,
+            "Tiene Oferta": false,
+            "Previamente Comprado": false,
+            "Consumo Habitual": true,
+            "certificado ecologico": true,
+            "Vegano": true,
+            "Gluten Free": "si",
+            "formato de empaque": "botella de vidrio",
+            "Apto para bebes": true
+        }
+    ]
+    }
+]
+
+}]},
+
+{
+"Carrefour": [
+    {
+    "direccion": "calle San Pablo 4",
+    "codigoPostal": 41009,
+    "coordenadas": "15°26'12.31\"N 7°54'14.22\"O\"",
+    "secciones": [
+           
+         { 
+        "Dulces":[
+            {
+            "nombre del producto": "kit kat",
+            "origen": "japon",
+            "precio": 1.59,
+            "unidades": 4,
+            "unidadMedida": "g",
+            "Es perecedero": true,
+            "Tiene Oferta": true,
+            "Previamente Comprado": true,
+            "Consumo Habitual": true,
+            "certificado ecologico": false,
+            "Vegano": false,
+            "Gluten Free": "si",
+            "formato de empaque": "plastico",
+            "Apto para bebes": false
+            },
+
+            {
+            "nombre del producto": "caramelos de frutas",
+            "origen": "francia",
+            "precio": 0.75,
+            "unidades": 3,
+            "unidadMedida": "g",
+            "Es perecedero": true,
+            "Tiene Oferta": false,
+            "Previamente Comprado": false,
+            "Consumo Habitual": true,
+            "certificado ecologico": true,
+            "Vegano": true,
+            "Gluten Free": "si",
+            "formato de empaque": "papel reciclado",
+            "Apto para bebes": false
+            }
+        ]
+        },
+        
+        {
+        "Fruteria":[
+            {
+            "nombre del producto": "patatas",
+            "origen": "chipiona",
+            "precio": 5.99,
+            "unidades": 10,
+            "unidadMedida": "kg",
+            "Es perecedero": true,
+            "Tiene Oferta": false,
+            "Previamente Comprado": false,
+            "Consumo Habitual": true,
+            "certificado ecologico": false,
+            "Vegano": true,
+            "Gluten Free": "si",
+            "formato de empaque": "saco de tela",
+            "Apto para bebes": true
+            },
+
+            {
+            "nombre del producto": "manzana",
+            "origen": "carmona",
+            "precio": 2.99,
+            "unidades": 4,
+            "unidadMedida": "g",
+            "Es perecedero": true,
+            "Tiene Oferta": false,
+            "Previamente Comprado": false,
+            "Consumo Habitual": false,
+            "certificado ecologico": false,
+            "Vegano": true,
+            "Gluten Free": "si",
+            "formato de empaque": "plastico",
+            "Apto para bebes": true
+            }
+        ]
+        }
+    ]
+        
+    }]  
+}
+    ]}
